@@ -82,7 +82,7 @@ Follow these steps to run the project on your computer.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/sahasrayeruva/-Road-Segment-Risk-Classification-Using-Decision-Trees-and-LightGBM.git
+git clone https://github.com/flowerfork/-Road-Segment-Risk-Classification-Using-Decision-Trees-and-LightGBM.git
 ```
 
 **2. Open the project folder**
